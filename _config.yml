@@ -1,6 +1,6 @@
 title: Micropub Content
-url: https://muan.github.io/micropub-content
-micropub_endpoint: https://micropub-endpoint-demo.herokuapp.com/micropub
+url: https://ahavensite.herokuapp.com
+micropub_endpoint: https://jackwhee.github.io/site
 
 timezone: GMT
 permalink: /posts/:title
