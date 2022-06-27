@@ -1,6 +1,6 @@
 title: Micropub Content
 url: https://ahavensite.herokuapp.com
-micropub_endpoint: https://jackwhee.github.io/site
+micropub_endpoint: https://jackwhee.github.io/micropub-content
 
 timezone: GMT
 permalink: /posts/:title
